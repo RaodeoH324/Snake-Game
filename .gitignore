@@ -1,3 +1,7 @@
+.vscode/
+snake
+*.o
+
 # Prerequisites
 *.d
 
