@@ -1,8 +1,8 @@
 // main.c
 #include <ncurses.h>
 
-#define WIDTH  100
-#define HEIGHT 25
+#define WIDTH  40
+#define HEIGHT 20
 
 void draw_border() {
     for (int x = 0; x < WIDTH; x++) {
