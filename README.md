@@ -41,7 +41,7 @@ make
 | d | Move Right |
 | `q` | Quit game |
 
-## 📋 Features
+## Features
 - [x] Game border drawn ✅
 - [ ] Snake movement
 - [ ] Food spawning
